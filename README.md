@@ -1,37 +1,61 @@
-# Stupendous
+# FirePress_Stupendous
 
-My personal blog's Ghost theme. ~~Check out my blog if ever you are curious as to
-how this thing look like.~~ (I had to cut costs, and Ghost eats up RAM... had to shut it down. Sorry)
+## Touch it: Live demo
 
-This theme only supports Blink based browsers (Chrome, Opera), Webkit (ie. Safari), Firefox, and IE10+ (including Edge). IE9 might be supported.
+- [See this theme](#) on your own device.
+- Even better! [Login into Ghost Admin Panel](#) and see how this theme looks with your own content. 
 
-I don't plan to support older IE because those browsers will stay if websites still support it, even though those browsers are not maintained anymore.
+*(The website is in the pipeline but it’s not public at the moment.)*
 
-# Note:
-Version 2.0.0 will work only in Ghost 1.0.0. Please use earlier versions of this theme if you are using Ghost version 0.11.x.
+**Screenshots** can be found [here](#).
 
-## Contributing and Forking
+## Why fork this Ghost Theme ?
 
-Just fork. Send pull requests. And/Or submit issues.
+**Enhancements** — This theme is an enhanced version of the original theme **Casper** made by the [Ghost foundation](https://ghost.org/). When I say « original » I mean prior the moment, Casper was completely revamped with the release of Ghost 1.0. 
 
-## Changelog
+These are the essential enhancements I can’t live without:
 
-See [Releases](https://github.com/dcefram/stupendous/releases)
+- **Buttons** (unicorn UI)
+- **Icons** (Font Awesome 5)
+- **Code Syntax** (highlight.js) 
+- **Grid** (great to make pricing table)
 
-## What's next?
+**Drop-in replacement** — You can use it as a drop-in replacement of the original Casper theme.
 
-I currently have a fulltime work, along with some other hobbies or other
-'ventures'. Don't worry though, I'll get back to this project from time to time.
+**Code Injection** — Take a look those snippets in this [Git repo](https://github.com/firepress-org/Code-Injection-Ghost). It’s an easy way to customize your theme.
 
-- Implement Search
-- Implement Blog Cover, possibly similar to how casper does it (covers the whole page if the blog cover exists)
-- Implement featured posts (I got no usecase for it right now, but it could be a good addition)
+**Curated** — This theme is one the few themes that pass our big test. See the curated collection [in this Git repo](https://github.com/firepress-org/Ghost-Theme-Curated-Collection/tree/master/01_go).
 
-## License
-Copyright (c) 2014-2017, Daniel Cefram Ramirez - Released under The MIT License.
+**Compatibility** — This theme will work on [Ghost](https://ghost.org/) >= **1.0**.
 
-## Credits
 
+## Contributing
+
+Thanks to the power of communities, this is where `1 + 1 = 3`.
+
+1. Fork it
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request
+
+
+## Copyright & License
+
+Copyright (c) 2018 FirePress — Released under the [GNU license](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE).
+
+
+## Sources & Fork
+
+- This Git repo is available [here](https://github.com/firepress-org/FirePress_Stupendous).
+- This project was forked from this [Git repo](https://github.com/dcefram/Stupendous).
 - [Font Awesome](http://fontawesome.io/) - For the awesome icons
 - [Prism](http://prismjs.com/) - For code highlighting in code blocks
 - [Vapor](https://github.com/sethlilly/Vapor) - The theme that I initially forked for my personal blog. Some behavior in my theme is influenced by Vapor's design.
+
+
+## Author
+
+In the world of OSS (open source software) most people refer themselves as maintainers. The thing is… I hate this expression. It feels heavy and not fun. I much prefer author.
+
+Shared by [Pascal Andy](https://pascalandy.com/blog/now/). Find me on [Twitter](https://twitter.com/askpascalandy).
