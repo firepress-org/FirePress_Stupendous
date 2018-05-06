@@ -1,13 +1,25 @@
 # FirePress_Stupendous
 
-## Touch it: Live demo
+
+## What is this?
+
+It’s a theme (*a template if you prefer*) for [Ghost](https://ghost.org/).
+
+Ghost is a free and open source website & blogging platform designed to simplify the process of publishing. It’s individual bloggers as well as online publications. You can see Ghost as a CMS (content management system) designed to be better alternative to systems like: *WordPress, Drupal, Medium, Tumblr*, etc.
+
+
+## Live demo
+
+**Not available** at the moment. I’m working on a dedicated website where people will be able to see all Ghost Themes we are supporting at FirePress.
 
 - [See this theme](#) on your own device.
 - Even better! [Login into Ghost Admin Panel](#) and see how this theme looks with your own content. 
 
-*(The website is in the pipeline but it’s not public at the moment.)*
 
-**Screenshots** can be found [here](#).
+## Screenshots
+
+- work in progress
+
 
 ## Why fork this Ghost Theme ?
 
@@ -42,16 +54,10 @@ Thanks to the power of communities, this is where `1 + 1 = 3`.
 
 ## Copyright & License
 
-Copyright (c) 2018 FirePress — Released under the [GNU license](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE).
-
-
-## Sources & Fork
-
-- This Git repo is available [here](https://github.com/firepress-org/FirePress_Stupendous).
-- This project was forked from this [Git repo](https://github.com/dcefram/Stupendous).
-- [Font Awesome](http://fontawesome.io/) - For the awesome icons
-- [Prism](http://prismjs.com/) - For code highlighting in code blocks
-- [Vapor](https://github.com/sethlilly/Vapor) - The theme that I initially forked for my personal blog. Some behavior in my theme is influenced by Vapor's design.
+- For this software, view **MIT** license information at https://github.com/dcefram/Stupendous/blob/master/LICENSE
+- For the fork, view the **GNU** license information at https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE.
+- This Git repo is available at https://github.com/firepress-org/FirePress_Stupendous
+- This project was forked from https://github.com/dcefram/Stupendous
 
 
 ## Author
