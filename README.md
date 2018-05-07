@@ -13,7 +13,7 @@ Ghost is a free and open source website & blogging platform designed to simplify
 **Not available** at the moment. I’m working on a dedicated website where people will be able to see all Ghost Themes we are supporting at FirePress.
 
 - [See this theme](#) on your own device.
-- Even better! [Login into Ghost Admin Panel](#) and see how this theme looks with your own content. 
+- Even better! [Login into Ghost Admin Panel](#) and see how this theme looks with your own content
 
 
 ## Screenshots
